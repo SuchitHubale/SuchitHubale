@@ -1,4 +1,4 @@
-# 👋 Hello, I am Sujal
+# 👋 Hello, I'm Sujal
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👨‍💻+Computer+Science+(AI+%26+ML)+Student;🚀+Full-Stack+Developer+%26+AI+Enthusiast;🧩+Problem+Solver+%7C+250%2B+LeetCode;💡+Building+Tomorrow's+Applications" alt="Typing SVG" />
@@ -18,7 +18,7 @@
 <td align="center" width="25%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="Student"/>
   <br><strong>🎓 Computer Science Student</strong>
-  <br><sub>CSE (AI & ML) at RIT Sangli</sub>
+  <br><sub>CSE</sub>
 </td>
 <td align="center" width="25%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="Developer"/>
@@ -33,7 +33,7 @@
 <td align="center" width="25%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="50" height="50" alt="Problem Solver"/>
   <br><strong>🧩 Problem Solver</strong>
-  <br><sub>250+ LeetCode Solutions</sub>
+  
 </td>
 </tr>
 </table>
