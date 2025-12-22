@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Suchit
+# 👋 Hello,
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👨‍💻+Computer+Science+(AI+%26+ML)+Student;🚀+Full-Stack+Developer+%26+AI+Enthusiast;🧩+Problem+Solver+%7C+250%2B+LeetCode;💡+Building+Tomorrow's+Applications" alt="Typing SVG" />
