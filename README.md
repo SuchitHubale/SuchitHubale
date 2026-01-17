@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sujal
+# 👋 Hello, I'm Suchit
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👨‍💻+Computer+Science+(AI+%26+ML)+Student;🚀+Full-Stack+Developer+%26+AI+Enthusiast;🧩+Problem+Solver+%7C+250%2B+LeetCode;💡+Building+Tomorrow's+Applications" alt="Typing SVG" />
@@ -18,7 +18,7 @@
 <td align="center" width="25%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="Student"/>
   <br><strong>🎓 Computer Science Student</strong>
-  <br><sub>CSE</sub>
+  <br><sub>CSE (AI & ML) at RIT Sangli</sub>
 </td>
 <td align="center" width="25%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="Developer"/>
@@ -33,7 +33,7 @@
 <td align="center" width="25%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="50" height="50" alt="Problem Solver"/>
   <br><strong>🧩 Problem Solver</strong>
-  
+  <br><sub>250+ LeetCode Solutions</sub>
 </td>
 </tr>
 </table>
@@ -64,10 +64,36 @@
 
 
 
+## 🏆 LeetCode Progress
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Obito7?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+---
 
 
 
- 
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/suchithubale">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/suchithubale">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/suchithubale">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://twitter.com/suchithubale">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:suchit.hubale@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
 ---
 
 ## 📈 Profile Views & Visitors
