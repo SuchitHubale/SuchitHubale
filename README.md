@@ -1,34 +1,52 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:00d9ff,100:7c3aed&height=200&section=header&text=Suchit%20Hubale&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=CS%20Engineer%20%7C%20Full-Stack%20%7C%20AI%2FML&descColor=00d9ff&descSize=20&animation=fadeIn" width="100%"/>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d9ff,50:7c3aed,100:f472b6&height=200&section=header&text=Suchit%20Hubale&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Dev%20%7C%20AI%20%2F%20ML%20%7C%20CSE%20@%20RIT%20Sangli&descAlignY=75&descSize=16" width="100%"/>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=⚡+CSE+%28AI+%26+ML%29+Student+%40+RIT+Sangli;🔭+Full-Stack+Developer+—+React+%7C+Next.js+%7C+Node;🧠+ML+Engineer+in+the+Making;🏆+350%2B+LeetCode+Solutions+%26+Counting;🚀+Building+Production-Grade+AI+Applications" alt="Typing SVG" />
-
+<hr/>
 <br/>
 
-<!-- Status Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=suchithubale&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge)](https://github.com/suchithubale)
-![Status](https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-00ff88?style=for-the-badge&logo=statuspage&logoColor=black)
+<!-- STATUS BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/⚡_STATUS-ONLINE-00ff88?style=flat-square&labelColor=06090f"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍-Pune,_India-00d9ff?style=flat-square&labelColor=06090f"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎓-RIT_Sangli-7c3aed?style=flat-square&labelColor=06090f"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🚀-Open_to_Work-f472b6?style=flat-square&labelColor=06090f"/>
+</p>
+
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=suchithubale&color=00d9ff&style=flat-square&label=PROFILE+VIEWS"/>
+  &nbsp;
+</p>
+
+<hr/>
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+</div>
 
 
 </div>
 
 ---
 
-## ⚡ `whoami`
+## `01` · whoami
 
 ```typescript
-const suchit: Developer = {
-  name       : "Suchit Hubale",
-  degree     : "B.Tech CSE (AI & ML)",
-  college    : "Rajarambapu Institute of Technology, Sangli",
-  role       : ["Full-Stack Developer", "AI/ML Enthusiast", "Problem Solver"],
-  passion    : "Building intelligent, scalable, beautiful software",
-  currentFocus: ["LLM-powered Apps", "Microservices", "System Design"],
-  openTo     : ["Internships", "Collaborations", "Open Source"],
-  funFact    : "I debug with console.log and I'm not ashamed 🙃",
+const Suchit: Developer = {
+  name            : "Suchit Hubale",
+  degree          : "B.Tech CSE (AI & ML)",
+  college         : "RIT Sangli",
+  stack           : ["React", "Next.js", "Node.js", "Python", "MongoDB"],
+  aiml            : ["TensorFlow", "PyTorch", "LangChain", "OpenAI API"],
+  currentlyBuilding: "LLM-powered web applications",
+  openTo          : ["FullTime", "Collabs", "Open Source"],
+  funFact         : "I debug with console.log and I'm proud 🙃",
 };
 ```
 
@@ -112,11 +130,10 @@ const suchit: Developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suchithubale)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suchithubale)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Grind-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/suchithubale)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/suchithubale)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suchit.hubale@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suchit-hubale-40a920256)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuchitHubale)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Grind-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Obito7)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suchit.hubale@gmail.com)
 
 </div>
 
