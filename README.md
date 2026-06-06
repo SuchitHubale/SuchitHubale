@@ -52,7 +52,31 @@ const Suchit: Developer = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## `02` · terminal
+ 
+```bash
+suchit@dev ~/projects $ git log --oneline --recent
+a3f8b21 feat: LLM-powered chat interface with RAG pipeline
+9c14e07 feat: AI resume analyzer using OpenAI + Next.js
+7d22a50 build: full-stack e-commerce with Node + MongoDB
+3b88f19 solve: 350th LeetCode — Binary Tree Max Depth
+ 
+suchit@dev ~ $ cat interests.txt
+→ System Design & Scalable Architecture
+→ LLM Fine-tuning & Prompt Engineering
+→ Open Source Contributions
+→ Building real products that solve real problems
+ 
+suchit@dev ~ $ ./hire_suchit.sh
+✓ Initializing contact protocols...
+✓ Portfolio loaded. Open to opportunities!
+→ Reach out: suchit.hubale@example.com
+```
+ 
+---
+
+
+## `03` · Tech Arsenal
 
 ### 🎨 Frontend
 
